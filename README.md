@@ -22,6 +22,7 @@ further email three weeks later. This required very little work for the team.
 
 Call: Customers in this group were called by a member of the sales team. On average
 members of the team were on the phone for around thirty minutes per customer.
+
 Email and call: Customers in this group were first sent the product information email, then
 called a week later by the sales team to talk about their needs and how this new product
 may support their work. The email required little work from the team, the call was around ten
