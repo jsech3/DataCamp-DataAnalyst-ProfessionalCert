@@ -63,4 +63,4 @@ in your presentation.
 
 5. Your presentation should be no longer than 10 minutes.
 
-## Workspace & Powerpoint Presentation can be found in repository
+## Workspace & Powerpoint Presentation can be found in repository under the "Presentation + Workbook" folder
